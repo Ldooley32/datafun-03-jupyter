@@ -110,7 +110,24 @@ Give introduction a title, author and date. Then a short paragragh on what the n
 
     Step 7. nitial Visualizations. Create a variety of chart types using seaborn and matplotlib to showcase different aspects of the data. 
 
-    Ste
+    Step 8. Initial Storytelling and Presentation. Present your notebook with an opening that introduces yourself and your topic. Use Markdown section headings to introduce each step. Interpret the visualizations and statistics to narrate a clear and compelling data story. Present your findings in a logical and engaging manner.
+
+# Evaluation Criteria
+Functionality: The project should be functional and meet all requirements.
+Documentation: The project should be well-written and well-documented.
+Presentation: The project should be presented in a clear and organized manner.
+Professionalism: The project should be submitted on-time and reflect an original, creative effort.
+See rubric for additional information.
+
+# Resources
+See JUPYTER.md for Jupyter Notebook keyboard shortcuts and recommendations.
+See MARKDOWN.md for Markdown syntax and recommendations.
+See Plotting graph For IRIS Dataset Using Seaborn And Matplotlib
+See Seaborn Tutorial
+Troubleshooting Mac SSL Certificate Error
+Seaborn fetches datasets from the web. Newer Macs don't have the required SSL Certificate functionaliy installed by default. There is a post-installation process that must be run. For more information see: MAC-SSL.md.
+
+A
 
 
     
